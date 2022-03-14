@@ -2,9 +2,8 @@
 A tiny command line app that stores a multi-value string dictionary in memory. 
 
 
-MultiValueDictionary
-
-MultiValueDictionary is a command-line interface which allows a user to manage in-memory key-member(s) pairings. It allows the user to perform a variety of different commands with the multi-value dictionary such as the following:
+MultiValueDictionary:
+  MultiValueDictionary is a command-line interface which allows a user to manage in-memory key-member(s) pairings. It allows the user to perform a variety of different commands with the multi-value dictionary such as the following:
 
 1.Add new key-member pairs
 2.Add members to an existing key
